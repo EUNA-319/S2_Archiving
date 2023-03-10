@@ -32,7 +32,7 @@ PLAS (Present Letter Archiving Service)
 - 주요 화면
   * Home : 메인 페이지로 친구 목록과 최신 게시글이 보여진다.
   * Like : 좋아요 페이지로 좋아요를 누른 게시글만 보여진다.
-  * User : 마이 페이지로 로그인, 회원가입 및 내 정보 수정과 관려된 페이지이다.
+  * User : 마이 페이지로 로그인, 회원가입 및 내 정보 수정과 관련된 페이지이다.
 
   ![image](https://user-images.githubusercontent.com/73284904/155993524-e3c08dd6-7a39-4ccc-b67b-9b6c040eec90.png)![image](https://user-images.githubusercontent.com/73284904/155993364-f4606de1-e552-4879-a4ec-66e23f6e7cb6.png)
 
